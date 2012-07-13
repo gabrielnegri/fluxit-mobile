@@ -27,11 +27,11 @@
 	xmlns:gap="http://phonegap.com/ns/1.0"
 	version="1.0.0.0">
 
-  <name>GeoFlux</name>
+  <name>FluxitMobile</name>
   <author>Fluxit</author>
 
   <description>
-      GeoFlux
+      Fluxit prototipo de referencia para desarrollo de aplicaciones Mobile crossplaform
   </description>
 
   <license href="http://opensource.org/licenses/alphabetical">
